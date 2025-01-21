@@ -108,4 +108,4 @@ Strategy: Focus on improving product features and marketing them more aggressive
 - Diversify Product Line: Introduce new products or variants to capture more market share.
 
 ## Dashboard Overview 
-https://www.markdownguide.org/basic-syntax/
+![Image](https://github.com/user-attachments/assets/d4844f91-5db6-4f96-a3fe-9e5fa080a003)
