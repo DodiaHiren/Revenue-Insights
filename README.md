@@ -48,7 +48,7 @@ The primary goal of this analysis is to provide actionable insights for the comp
 
 ### Finalise:
 
-Sort, rename columns, and load the cleaned dataset back.
+- Sort, rename columns, and load the cleaned dataset back.
 
 ## Insights
 
