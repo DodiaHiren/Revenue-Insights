@@ -107,4 +107,5 @@ Strategy: Focus on improving product features and marketing them more aggressive
 - Customer Feedback: Implement feedback loops to understand customer preferences and improve product offerings.
 - Diversify Product Line: Introduce new products or variants to capture more market share.
 
-
+## Dashboard Overviewhttps: 
+//www.markdownguide.org/basic-syntax/
